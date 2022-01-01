@@ -1,0 +1,2 @@
+# Comparative-study-of-detectors-descriptors-and-matching-of-points-of-interest
+In this project, we tested and evaluated the performance of several most used interest point detectors such as (SIFT, AKAZE, ORB, BRISK, KAZE, FAST, STAR and MSER), several descriptors such as (SIFT, AKAZE, ORB, BRISK, KAZE, FREAK, LATCH, LUCID and BRIEF) and several matching methods such as (Brute-Force L1, Brute-Force L2 and Brute-Force HAMMING), in order to know the most suitable method for a given scenario. 
