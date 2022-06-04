@@ -1,6 +1,6 @@
                           ##    Comparative study of detectors, descriptors and matching    ##
                           ##                     of points of interest                      ##         
-                          ##                Work done by : EL GHEBOULI Ayoub                ## 
+                          ##                   Work done by : AElghebouli                   ## 
 
 
 ## Objective: In this project, we tested and evaluated the performance of several most used interest point detectors 
